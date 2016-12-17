@@ -6,3 +6,5 @@ Second commit.
 Third commit.
 
 Forth Commit.
+
+In branch commit 1.
